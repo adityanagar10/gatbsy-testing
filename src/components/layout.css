@@ -5,6 +5,24 @@ html {
   box-sizing: border-box;
   overflow-y: scroll;
 }
+
+.navLinks{
+  color: #000;
+  list-style: none;
+  display: flex;
+  padding-top: 2rem;
+}
+
+.layoutTitle{ 
+    color:grey;
+    font-size: 3rem;
+
+}
+.navLinkItem{
+  color: #000;
+  padding-right: 2rem;
+}
+
 body {
   margin: 0;
   -webkit-font-smoothing: antialiased;
